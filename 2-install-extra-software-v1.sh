@@ -13,13 +13,13 @@ set -e
 
 # Atom
 
-sh install-atom-v*.sh
+# sh install-atom-v*.sh
 
 ###############################################################################################
 
 # Brackets
 
-sh install-brackets-v*.sh
+# sh install-brackets-v*.sh
 
 ###############################################################################################
 
@@ -68,7 +68,7 @@ sh install-spotify-v*.sh
 
 # Sublime text 3
 
-sh install-sublime-text-v*.sh
+# sh install-sublime-text-v*.sh
 
 
 ###############################################################################################
